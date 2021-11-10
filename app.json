@@ -1,0 +1,8 @@
+{
+  "name": "Budibase start on Heroku",
+  "description": "Starts the Budibase in Heroku",
+  "repository": "https://github.com/Budibase/budibase/",
+  "logo": "https://camo.githubusercontent.com/a2c0a133e99f625574a121dbbd51ddb5aa99f461e409df3eedcb15e633a82e24/68747470733a2f2f64333377756272666b69306c36382e636c6f756466726f6e742e6e65742f616163333231353964373230376235303835653734613765663637616662623730323737383663352f32623166642f696d672f6c6f676f2f62622d656d626c656d2e737667",
+  "keywords": ["budibase", "lowcode", "budibase.com"],
+  "image": "heroku/nodejs"
+}
